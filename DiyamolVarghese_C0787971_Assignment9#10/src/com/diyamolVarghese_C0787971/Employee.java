@@ -54,7 +54,5 @@ public class Employee {
         JOptionPane.showMessageDialog(null,"Firstname: "+account[0]+"\n"
                 +"Lastname: "+account[1]+"\n"+"Employee Id: "+account[2]+"\n"+"Total Sales: $"+commission[0]+"\n"
         +"Advance Amount: $"+commission[1]+"\n"+"Payable Amount: $"+commission[2]);
-
-
     }
 }
